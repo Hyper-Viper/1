@@ -19,7 +19,7 @@ body {
 }
 
 #url {
-    width: 290px;
+    width: 500px;
     margin-right: 10px;
     margin-bottom: 15px;
     height: 30px;
@@ -42,13 +42,9 @@ body {
     border-color: gold;
 }
 
-#sliders {
-    width: 100%
-}
-
 .slider[type="range"] {
     -webkit-appearance: none;
-    width: 290px;
+    width: 500px;
     height: 30px;
     border-radius: 10px;
     background-color: #aaa;
